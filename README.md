@@ -9,8 +9,16 @@
 
 ## How to start
 ```python
-$ git clone {username/repo addr}
-$ cd {repo addr}
+$ git clone {username/reponame}
+$ cd {reponame}
+
+$ touch .gitignore
+
+$ vi README.md
+
+$ touch main.py
+
+$ vi main.py
 ```
 
 ## Credits
